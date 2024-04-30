@@ -1,0 +1,618 @@
+{
+    "email": {
+      "zh": "邮箱",
+      "en": "Email"
+    },
+    "searchKeyWord": {
+      "zh": "请输入关键词",
+      "en": "Please enter Key Word"
+    },
+    "orderCenter": {
+      "zh": "订单中心",
+      "en": "Order Center"
+    },
+    "settings": {
+      "zh": "个人设置",
+      "en": "Settings"
+    },
+    "logout": {
+      "zh": "退出",
+      "en": "Logout"
+    },
+    "login": {
+      "zh": "登录",
+      "en": "Login"
+    },
+    "message": {
+      "zh": "我的消息",
+      "en": "Message"
+    },
+    "goodType": {
+      "zh": "商品分类",
+      "en": "Category"
+    },
+    "tags": {
+      "zh": "热门标签",
+      "en": "Hot Tags"
+    },
+    "show": {
+      "zh": "暂无数据",
+      "en": "No Datas"
+    },
+    "back": {
+      "zh": "后台管理",
+      "en": "Admin Manage"
+    },
+    "maillogin": {
+      "zh": "邮箱登录",
+      "en": "Emial Login"
+    },
+    "inputemailtip": {
+      "zh": "请输入注册邮箱",
+      "en": "Please enter your registration email"
+    },
+    "inputpwdtip": {
+      "zh": "请输入密码",
+      "en": "Please enter your password"
+    },
+    "register": {
+      "zh": "注册新账号",
+      "en": "Register"
+    },
+    "forget": {
+      "zh": "忘记密码？",
+      "en": "Forgot Password?"
+    },
+    "goodsStatus": {
+      "zh": "商品状态",
+      "en": "Goods Status"
+    },
+    "sale": {
+      "zh": "上市销售",
+      "en": "For Sale"
+    },
+    "category": {
+      "zh": "分类",
+      "en": "Category"
+    },
+    "store": {
+      "zh": "库存",
+      "en": "Repertory"
+    },
+    "buy": {
+      "zh": "立即购买",
+      "en": "Buy"
+    },
+    "wish": {
+      "zh": "加入心愿单",
+      "en": "Join Wish List"
+    },
+    "collect": {
+      "zh": "收藏",
+      "en": "Collect"
+    },
+    "share": {
+      "zh": "分享",
+      "en": "Share"
+    },
+    "newcomments": {
+      "zh": "发表新的评论",
+      "en": "Post new comments"
+    },
+    "saysomethings": {
+      "zh": "说点什么...",
+      "en": "Say Somethings..."
+    },
+    "send": {
+      "zh": "发送",
+      "en": "Send"
+    },
+    "total": {
+      "zh": "总共",
+      "en": "Total"
+    },
+    "comments": {
+      "zh": "条评论",
+      "en": "Comments"
+    },
+    "new": {
+      "zh": "最新",
+      "en": "New"
+    },
+    "hot": {
+      "zh": "热门",
+      "en": "Hot"
+    },
+    "recommand": {
+      "zh": "推荐",
+      "en": "Recommand"
+    },
+    "more": {
+      "zh": "没有更多了",
+      "en": "No More"
+    },
+    "recommands": {
+      "zh": "热门推荐",
+      "en": "Popular recommendations"
+    },
+    "orderdetail": {
+      "zh": "订单明细",
+      "en": "Order Details"
+    },
+    "ordername": {
+      "zh": "商品名称",
+      "en": "Goods Name"
+    },
+    "price": {
+      "zh": "价格",
+      "en": "Price"
+    },
+    "number": {
+      "zh": "数量",
+      "en": "Number"
+    },
+    "operate": {
+      "zh": "操作",
+      "en": "operate"
+    },
+    "remark": {
+      "zh": "备注",
+      "en": "remark"
+    },
+    "remarkcontent": {
+      "zh": "输入备注信息，100字以内",
+      "en": "Enter note information, within 100 words"
+    },
+    "address": {
+      "zh": "收货地址",
+      "en": "Address"
+    },
+    "selectaddress": {
+      "zh": "选择收货地址",
+      "en": "Select Address"
+    },
+    "recipient": {
+      "zh": "收货人:",
+      "en": "Recipient:"
+    },
+    "noaddress": {
+      "zh": "目前暂无地址信息，请",
+      "en": "At present, there is no address information available. Please"
+    },
+    "newaddress": {
+      "zh": "新建地址",
+      "en": "New Address"
+    },
+    "settlement": {
+      "zh": "结算",
+      "en": "Settlement"
+    },
+    "goodstotal": {
+      "zh": "商品总价",
+      "en": "Total price of goods"
+    },
+    "goodsdiscount": {
+      "zh": "商品优惠",
+      "en": "Product discounts"
+    },
+    "merdiscount": {
+      "zh": "商品折扣",
+      "en": "Merchandise discount"
+    },
+    "backs": {
+      "zh": "返回",
+      "en": "Back"
+    },
+    "pls": {
+      "zh": "请在",
+      "en": "Please"
+    },
+    "payamount": {
+      "zh": "支付金额",
+      "en": "Payment amount"
+    },
+    "winxipay": {
+      "zh": "微信支付",
+      "en": "Weixin Pay"
+    },
+    "alipay": {
+      "zh": "支付宝",
+      "en": "AliPay"
+    },
+    "ordersubmmit": {
+      "zh": "订单提交成功",
+      "en": "Order submitted successfully"
+    },
+    "expiredorder": {
+      "zh": "之前付款，超时订单将自动取消",
+      "en": "Expired orders will be automatically cancelled"
+    },
+    "yuan": {
+      "zh": "元",
+      "en": "RMB"
+    },
+    "paymethod": {
+      "zh": "请选择任意一种支付方式",
+      "en": "Please choose any payment method"
+    },
+    "confirmpay": {
+      "zh": "确认支付",
+      "en": "Please choose any payment method"
+    },
+    "qr": {
+      "zh": "正在生成安全支付二维码",
+      "en": "Generating secure payment QR code"
+    },
+    "openweixin": {
+      "zh": "请打开微信扫一扫进行支付",
+      "en": "Please open WeChat and scan to make payment"
+    },
+    "paycomplete": {
+      "zh": "支付完成",
+      "en": "Payment completed"
+    },
+    "otherpay": {
+      "zh": "选择其他支付方式",
+      "en": "Choose another payment method"
+    },
+    "needlogin": {
+      "zh": "我要登录",
+      "en": "Go to Login"
+    },
+    "entermail": {
+      "zh": "请输入邮箱",
+      "en": "Please enter email"
+    },
+    "inputpwdagain": {
+      "zh": "请再次输入密码",
+      "en": "Please enter your password again"
+    },
+    "reg": {
+      "zh": "注册",
+      "en": "Register"
+    },
+    "and": {
+      "zh": "与",
+      "en": "And"
+    },
+    "about": {
+      "zh": "相关的内容",
+      "en": "Related content"
+    },
+    "name": {
+      "zh": "姓名",
+      "en": "Name"
+    },
+    "plsenter": {
+      "zh": "请输入",
+      "en": "Please Enter"
+    },
+    "phone": {
+      "zh": "电话号码",
+      "en": "Phone"
+    },
+    "songhuo": {
+      "zh": "送货地址",
+      "en": "ship to"
+    },
+    "morendizhi": {
+      "zh": "默认地址",
+      "en": "Default Address"
+    },
+    "platform": {
+      "zh": "统一订单管理系统",
+      "en": "Order Management System"
+    },
+    "admin": {
+      "zh": "管理员",
+      "en": "administrator"
+    },
+    "addressmange": {
+      "zh": "地址管理",
+      "en": "Address Management"
+    },
+    "edit": {
+      "zh": "编辑",
+      "en": "Edit"
+    },
+    "del": {
+      "zh": "删除",
+      "en": "Delete"
+    },
+    "no_address": {
+      "zh": "暂无地址",
+      "en": "No Address"
+    },
+    "mycollection": {
+      "zh": "我的收藏",
+      "en": "My Collection"
+    },
+    "remove": {
+      "zh": "移出",
+      "en": "Remove"
+    },
+    "author": {
+      "zh": "（作者）",
+      "en": "（author）"
+    },
+    "translator": {
+      "zh": "（译者）",
+      "en": "（translator）"
+    },
+    "mycomments": {
+      "zh": "我的评论",
+      "en": "My Comments"
+    },
+    "myfans": {
+      "zh": "我的粉丝",
+      "en": "My Fans"
+    },
+    "myfllow": {
+      "zh": "我的关注",
+      "en": "My following"
+    },
+    "unfllow": {
+      "zh": "取消关注",
+      "en": "Unfllow"
+    },
+    "mywish": {
+      "zh": "我的心愿单",
+      "en": "My Wish List"
+    },
+    "myponits": {
+      "zh": "我的积分",
+      "en": "My points"
+    },
+    "ponitsblanace": {
+      "zh": "积分余额:",
+      "en": "Points balance:"
+    },
+    "pushset": {
+      "zh": "推送设置",
+      "en": "Push Settings"
+    },
+    "save": {
+      "zh": "保存",
+      "en": "Save"
+    },
+    "pushmail": {
+      "zh": "推送邮箱",
+      "en": "Push email"
+    },
+    "accpectemailmessage": {
+      "zh": "接受邮件消息",
+      "en": "Accept email messages"
+    },
+    "myorder": {
+      "zh": "我的订单",
+      "en": "My Orders"
+    },
+    "touxiang": {
+      "zh": "头像",
+      "en": "Profile picture"
+    },
+    "active": {
+      "zh": "活跃1天",
+      "en": "Active for 1 day"
+    },
+    "editprofile": {
+      "zh": "编辑资料",
+      "en": "editorial material"
+    },
+    "adminlogin": {
+      "zh": "管理员登录",
+      "en": "Admin Login"
+    },
+    "account": {
+      "zh": "账号",
+      "en": "Account"
+    },
+    "plsenteraccount": {
+      "zh": "请输入登录账号",
+      "en": "Please enter account"
+    },
+    "pwd": {
+      "zh": "密码",
+      "en": "password"
+    },
+    "plsenterpwd": {
+      "zh": "请输入密码",
+      "en": "Please enter password"
+    },
+    "add": {
+      "zh": "新增",
+      "en": "Add"
+    },
+    "mutdel": {
+      "zh": "批量删除",
+      "en": "Batch Delete"
+    },
+    "bannerpicture": {
+      "zh": "横幅图片",
+      "en": "Banner image"
+    },
+    "plsselectpicture": {
+      "zh": "请选择要上传的横幅图片",
+      "en": "Please select the banner image to upload"
+    },
+    "link": {
+      "zh": "跳转链接",
+      "en": "Link"
+    },
+    "relategoods": {
+      "zh": "关联商品",
+      "en": "Associated Goods"
+    },
+    "all": {
+      "zh": "全部",
+      "en": "All"
+    },
+    "plspay": {
+      "zh": "请付款",
+      "en": "Please make payment"
+    },
+    "paid": {
+      "zh": "已支付",
+      "en": "Paid"
+    },
+    "ordernumber": {
+      "zh": "订单号",
+      "en": "Order No."
+    },
+    "deliverytime": {
+      "zh": "期望送达时间",
+      "en": "Expected delivery time"
+    },
+    "accountsafe": {
+      "zh": "账号安全",
+      "en": "Account security"
+    },
+    "messagemanage": {
+      "zh": "消息管理",
+      "en": "Message Management"
+    },
+    "cancel": {
+      "zh": "取消",
+      "en": "Cancel"
+    },
+    "accountsafelevel": {
+      "zh": "账号安全等级",
+      "en": "Account security level"
+    },
+    "lowrisk": {
+      "zh": "低风险",
+      "en": "Low Risk"
+    },
+    "plsenterphone": {
+      "zh": "请输入手机号",
+      "en": "Please enter your phone number"
+    },
+    "bindphone": {
+      "zh": "绑定手机",
+      "en": "Bind Phone"
+    },
+    "changepwd": {
+      "zh": "修改密码",
+      "en": "Change password"
+    },
+    "change": {
+      "zh": "更换",
+      "en": "Change"
+    },
+    "nowpwd": {
+      "zh": "当前密码",
+      "en": "Current Password"
+    },
+    "plsenternowpwd": {
+      "zh": "输入当前密码",
+      "en": "Enter Current Password"
+    },
+    "newpwd": {
+      "zh": "新密码",
+      "en": "New Password"
+    },
+    "enternewpwd": {
+      "zh": "输入新密码",
+      "en": "Enter New Password"
+    },
+    "surenewpwd": {
+      "zh": "确认新密码",
+      "en": "Confirm new password"
+    },
+    "againenterpwd": {
+      "zh": "重复输入密码",
+      "en": "Repeatedly enter password"
+    },
+    "query": {
+      "zh": "查询",
+      "en": "Query"
+    },
+    "unpaidorder": {
+      "zh": "未付订单",
+      "en": "Unpaid Order"
+    },
+    "unpaid": {
+      "zh": "未付",
+      "en": "Unpaid"
+    },
+    "allgoods": {
+      "zh": "商品总数",
+      "en": "Total of Goods"
+    },
+    "type": {
+      "zh": "种",
+      "en": "Type"
+    },
+    "thisweekadd": {
+      "zh": "本周新增",
+      "en": "New additions this week"
+    },
+    "paidorder": {
+      "zh": "已付订单",
+      "en": "Paid Order"
+    },
+    "order": {
+      "zh": "单",
+      "en": "Orders"
+    },
+    "title": {
+      "zh": "标题",
+      "en": "Title"
+    },
+    "plsentertitle": {
+      "zh": "请输入标题",
+      "en": "Please enter a title"
+    },
+    "noticecontent": {
+      "zh": "通知内容",
+      "en": "Notification content"
+    },
+    "plsentercontent": {
+      "zh": "请输入内容",
+      "en": "Please enter the content"
+    },
+    "username": {
+      "zh": "用户名",
+      "en": "username"
+    },
+    "cancelorder": {
+      "zh": "取消订单",
+      "en": "Cancel Order"
+    },
+    "person": {
+      "zh": "人",
+      "en": "Person"
+    },
+    "visitoneweek": {
+      "zh": "最近一周访问量",
+      "en": "Visits in the Last Week"
+    },
+    "hotgoodsrank": {
+      "zh": "热门商品排名",
+      "en": "Ranking of Popular Goods"
+    },
+    "hotclassratio": {
+      "zh": "热门分类比例",
+      "en": "Popular classification ratio"
+    },
+    "goods": {
+      "zh": "商品",
+      "en": "Goods"
+    },
+    "shezhi": {
+      "zh": "设置",
+      "en": "Settings"
+    },
+    "cart": {
+      "zh": "购物车",
+      "en": "Cart"
+    },
+    "addcart": {
+      "zh": "加入购物车",
+      "en": "Add to Cart"
+    },
+    "cartdetail": {
+      "zh": "购物车明细",
+      "en": "Cart Detail"
+    }
+}
